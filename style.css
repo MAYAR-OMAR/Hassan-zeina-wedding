@@ -1142,4 +1142,14 @@ section {
 
 
 
+/* تصغير حجم خط الأسماء والعناوين داخل الـ Intro Cover أو الكارت الرئيسي */
+#intro-cover h1, .intro-cover h1 {
+    font-size: 25px !important; /* تقدري تقللي الرقم ده لـ 18px أو 20px لو حاباه أصغر كمان */
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+
+
 
